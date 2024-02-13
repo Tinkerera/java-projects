@@ -1,1 +1,1 @@
-<h1>To use this applicatoin, you should download MYSQL and create 'banking' database and 'account' table inside that database</h1>
+<h2>To use this applicatoin, you should download MYSQL and create 'banking' database and 'account' table inside that database</h2>
